@@ -14,3 +14,6 @@ Second part was much simpler in case no need UI and no requirements to item stru
 
 
 Task took around 12h (with breaks) to learn and make own simplified version.
+[Video result](https://www.youtube.com/watch?v=wq30TaRtyis) (1:57)
+
+
